@@ -1,6 +1,6 @@
-# Learning Management System (LMS) - MERN Stack Application
+# Online Learning Platform (OLP) - MERN Stack Application
 
-This is a full-stack Learning Management System (LMS) application built using the MERN stack (MongoDB, Express, React, Node.js). The LMS allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
+This is a full-stack Online Learning Platform (OLP) application built using the MERN stack (MongoDB, Express, React, Node.js). The LMS allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -15,14 +15,14 @@ This is a full-stack Learning Management System (LMS) application built using th
 - [Project Demo Video](#Project-Demo)
 ## Project Structure
 The project is organized into two main folders:
-- `frontend/` - Contains the front-end React code for the LMS application.
+- `frontend/` - Contains the front-end React code for the OLP application.
   - `src/assets/Images` - Stores images used in the frontend.
   - `src/components/admin` - Contains components for admin functionalities.
   - `src/components/common` - Contains common components like login, dashboard, and navbar.
   - `src/components/user/student` - Contains components for student-specific views.
   - `src/components/user/teacher` - Contains components for teacher-specific views.
 
-- `backend/` - Contains the back-end Node.js and Express code for the LMS.
+- `backend/` - Contains the back-end Node.js and Express code for the OLP.
   - `config/` - Database configuration.
   - `controllers/` - Contains controllers for admin and user operations.
   - `middlewares/` - Authentication middleware.
