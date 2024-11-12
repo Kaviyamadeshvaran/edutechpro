@@ -1,6 +1,6 @@
 # Online Learning Platform (OLP) - MERN Stack Application
 
-This is a full-stack Online Learning Platform (OLP) application built using the MERN stack (MongoDB, Express, React, Node.js). The LMS allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
+This is a full-stack Online Learning Platform (OLP) application built using the MERN stack (MongoDB, Express, React, Node.js). The OLP allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
